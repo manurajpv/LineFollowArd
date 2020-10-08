@@ -1,9 +1,13 @@
 ## Line Follower Robot using Arduino and IR sensor <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<br />
 
--Simple LIne Follower using Arduino Uno And IR sensor.
--Tested in proteus.
--Library Files of IR sensor included.
--Library Files of Arduino also included.
+- Simple LIne Follower using Arduino Uno And IR sensor.
+
+- Tested in proteus.
+
+- Library Files of IR sensor included.
+
+- Library Files of Arduino also included.
 
 <br />
 
